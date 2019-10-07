@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/public/keycloak.json
+/keycloak.json
 /.pnp
 .pnp.js
 
