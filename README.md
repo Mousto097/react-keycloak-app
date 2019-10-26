@@ -32,10 +32,14 @@ This is a simple React-based app that allows the user to navigate between two co
 
 You can find more information about the project in my [Github Wiki](https://github.com/Mousto097/react-keycloak-app/wiki).
 
+# Contact
+
+- [Personal LinkedIn](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Contact
+## Acknowledgements
 
-- [Personal LinkedIn](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
+- [USER AUTHENTICATION WITH KEYCLOAK – PART 1: REACT FRONT-END](https://scalac.io/user-authentication-keycloak-1/)
