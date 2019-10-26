@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import Welcome from "./Welcome";
-import Secured from "./Secured";
+import Secured from "./components/Secured";
 import "./App.css";
 
 function App() {
